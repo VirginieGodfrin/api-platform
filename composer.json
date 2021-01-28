@@ -75,6 +75,8 @@
         }
     },
     "require-dev": {
-        "symfony/maker-bundle": "^1.28"
+        "symfony/maker-bundle": "^1.28",
+        "symfony/stopwatch": "^4.3",
+        "symfony/web-profiler-bundle": "^4.3"
     }
 }
