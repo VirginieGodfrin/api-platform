@@ -12,6 +12,7 @@
         "doctrine/doctrine-migrations-bundle": "^3.0",
         "doctrine/orm": "^2.7",
         "nelmio/cors-bundle": "^1.5",
+        "nesbot/carbon": "^2.43",
         "phpdocumentor/reflection-docblock": "^5.2",
         "symfony/asset": "4.2.*|4.3.*",
         "symfony/console": "4.2.*",
